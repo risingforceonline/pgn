@@ -1,0 +1,13 @@
+{
+    "name": "Pengu Fishman",
+    "description": "This is Pengu Fishman, part of an exclusive collection.",
+    "image": "https://raw.githubusercontent.com/risingforceonline/pgn/refs/heads/main/nft/6.webp",
+    "attributes": [{
+            "trait_type": "Background",
+            "value": "Igloo"
+        }, {
+            "trait_type": "Mood",
+            "value": "Cool"
+        }
+    ]
+}

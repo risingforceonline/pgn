@@ -1,0 +1,13 @@
+{
+    "name": "The Great Pengu",
+    "description": "This is Great Pengu, part of an exclusive collection.",
+    "image": "https://raw.githubusercontent.com/risingforceonline/pgn/refs/heads/main/nft/8.webp",
+    "attributes": [{
+            "trait_type": "Background",
+            "value": "Mountains"
+        }, {
+            "trait_type": "Mood",
+            "value": "Adventurous"
+        }
+    ]
+}

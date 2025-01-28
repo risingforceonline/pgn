@@ -1,0 +1,13 @@
+{
+    "name": "Pengu Drummer",
+    "description": "This is Pengu Drummer, part of an exclusive collection.",
+    "image": "https://raw.githubusercontent.com/risingforceonline/pgn/refs/heads/main/nft/2.webp",
+    "attributes": [{
+            "trait_type": "Background",
+            "value": "Ocean"
+        }, {
+            "trait_type": "Mood",
+            "value": "Playful"
+        }
+    ]
+}

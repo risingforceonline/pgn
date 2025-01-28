@@ -1,0 +1,13 @@
+{
+    "name": "Pengu Cooking",
+    "description": "This is Pengu Cooking, part of an exclusive collection.",
+    "image": "https://raw.githubusercontent.com/risingforceonline/pgn/refs/heads/main/nft/5.webp",
+    "attributes": [{
+            "trait_type": "Background",
+            "value": "Aurora"
+        }, {
+            "trait_type": "Mood",
+            "value": "Majestic"
+        }
+    ]
+}
