@@ -1,0 +1,13 @@
+{
+    "name": "Pengu and Snake",
+    "description": "This is Pengu with Snake celebrate, part of an exclusive collection.",
+    "image": "https://raw.githubusercontent.com/risingforceonline/pgn/refs/heads/main/nft/7.webp",
+    "attributes": [{
+            "trait_type": "Background",
+            "value": "Beach"
+        }, {
+            "trait_type": "Mood",
+            "value": "Relaxed"
+        }
+    ]
+}

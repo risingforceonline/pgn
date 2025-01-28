@@ -1,0 +1,13 @@
+{
+    "name": "Pengu Wizzard",
+    "description": "This is Pengu Wizzard, make magic simply.",
+    "image": "https://raw.githubusercontent.com/risingforceonline/pgn/refs/heads/main/nft/1.webp",
+    "attributes": [{
+            "trait_type": "Background",
+            "value": "Snowy"
+        }, {
+            "trait_type": "Mood",
+            "value": "Happy"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Pengu Holder",
+    "description": "This is Pengu Holder, part of an exclusive collection.",
+    "image": "https://raw.githubusercontent.com/risingforceonline/pgn/refs/heads/main/nft/3.webp",
+    "attributes ": [{
+            " trait_type ": " Background ",
+            " value ": " Forest "
+        }, {
+            " trait_type ": " Mood ",
+            " value ": " Curious "
+        }
+    ]
+}
